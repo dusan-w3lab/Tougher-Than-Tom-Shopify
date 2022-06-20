@@ -103,7 +103,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "",
               "color_scheme": "background-1",
               "link": ""
             }
@@ -119,12 +119,16 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo_width": 90,
+          "logo": "shopify:\/\/shop_images\/TTT_logo.jpg",
+          "logo_width": 130,
           "logo_position": "middle-left",
           "menu": "main-menu",
-          "show_line_separator": true,
+          "menu_type_desktop": "dropdown",
+          "show_line_separator": false,
           "enable_sticky_header": true,
-          "margin_bottom": 0
+          "margin_bottom": 0,
+          "padding_top": 20,
+          "padding_bottom": 20
         }
       },
       "footer": {
@@ -183,7 +187,10 @@
           "color_scheme": "background-1"
         }
       }
-    }
+    },
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {

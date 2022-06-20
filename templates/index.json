@@ -6,23 +6,23 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Get Rid of Mosquitoes Naturally and Reclaim Your Backyard Today!",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Tougher Than Tom's all-natural bait attracts mosquitoes to the traps so you can enjoy your time outside without getting bit.  Mosquitoes can't resist it!",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Order Now & Get 50% Off",
             "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -39,7 +39,7 @@
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": true,
-        "desktop_content_position": "bottom-center",
+        "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
@@ -48,20 +48,109 @@
         "show_text_below": false
       }
     },
+    "16557201546ee69969": {
+      "type": "multicolumn",
+      "blocks": {
+        "1655720154f2748feb-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/mosquitoes.jpg",
+            "title": "Mosquitoes",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1655720154f2748feb-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fruit-flies.jpg",
+            "title": "Fruit Flies",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "54c214a2-3aed-4e94-81aa-ac13ced3f47d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/black-flies.jpg",
+            "title": "Black Flies",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1c1d295a-03d3-4f14-847d-751836219f27": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gnats.jpg",
+            "title": "Gnats",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "d08a854a-6733-46ec-ac7f-806fe5856753": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/horse-flies.jpg",
+            "title": "Horse Flies",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4e86a05c-7eec-443d-b4a9-7f5ac3ee090a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/no-see-ums.jpg",
+            "title": "No-See-Ums",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1655720154f2748feb-0",
+        "1655720154f2748feb-1",
+        "54c214a2-3aed-4e94-81aa-ac13ced3f47d",
+        "1c1d295a-03d3-4f14-847d-751836219f27",
+        "d08a854a-6733-46ec-ac7f-806fe5856753",
+        "4e86a05c-7eec-443d-b4a9-7f5ac3ee090a"
+      ],
+      "settings": {
+        "title": "Effective at Killing 100% of Mosquitoes & Bugs (Bee Safe!)",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Test test 234<\/p>",
-            "heading_size": "h2"
+            "heading": "<p><strong>50,000+ Bite-Free Customers<br\/>Swear By Mosquito TNT<\/strong><\/p>",
+            "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Tougher Than Tom believes in safe and effective pest repellents to keep your family safe. Our customers love that they can trust our products to keep away those pesky mosquitoes without putting their loved ones at harm. Even though mosquitoes love our bait, you'll never find any crazy chemicals in it!<\/p>"
           }
         }
       },
@@ -76,6 +165,60 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/no-see-ums.jpg",
+            "title": "All-Natural Solution",
+            "text": "<p>DEET free!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_collection": {
@@ -156,66 +299,63 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
+    "1655719131b8532893": {
+      "type": "image-banner",
       "blocks": {
-        "column1": {
-          "type": "column",
+        "16557191315601e83f-0": {
+          "type": "heading",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "heading": "Image banner",
+            "heading_size": "h1"
           }
         },
-        "column2": {
-          "type": "column",
+        "16557191315601e83f-1": {
+          "type": "text",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
           }
         },
-        "column3": {
-          "type": "column",
+        "16557191315601e83f-2": {
+          "type": "buttons",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "16557191315601e83f-0",
+        "16557191315601e83f-1",
+        "16557191315601e83f-2"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "image": "shopify:\/\/shop_images\/portrait-of-family-with-small-children-standing-on-PJAWUV6_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
     "image_banner",
+    "16557201546ee69969",
     "rich_text",
+    "multicolumn",
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "1655719131b8532893"
   ]
 }
