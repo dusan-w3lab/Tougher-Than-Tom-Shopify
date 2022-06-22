@@ -167,52 +167,54 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
+    "1655885871cb88066e": {
+      "type": "custom-text",
       "blocks": {
-        "column1": {
+        "1655885871561450b0-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/no-see-ums.jpg",
+            "image": "shopify:\/\/shop_images\/all-natural-icon.jpg",
             "title": "All-Natural Solution",
             "text": "<p>DEET free!<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column2": {
+        "1655885871561450b0-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/calendar-icon.jpg",
+            "title": "Protects Whole Yard for 30 Days",
+            "text": "<p>Enjoy your backyard again!<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column3": {
+        "1655885871561450b0-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/mosquito-icon_f286bcad-17f6-4db1-8a35-3603fe2af730.jpg",
+            "title": "Protects Whole Yard for 30 Days",
+            "text": "<p>100% effective guaranteed!<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column1",
-        "column2",
-        "column3"
+        "1655885871561450b0-0",
+        "1655885871561450b0-2",
+        "1655885871561450b0-1"
       ],
       "settings": {
-        "title": "",
+        "title": "Multicolumn",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "",
+        "button_label": "Button label",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -221,130 +223,90 @@
         "padding_bottom": 36
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
+    "1655896435066b2835": {
+      "type": "ttt-text-with-square-image",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1655719131b8532893": {
-      "type": "image-banner",
-      "blocks": {
-        "16557191315601e83f-0": {
+        "1655896435b823c5ce-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Image with text",
             "heading_size": "h1"
           }
         },
-        "16557191315601e83f-1": {
+        "1655896435b823c5ce-1": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "text_style": "body"
           }
         },
-        "16557191315601e83f-2": {
-          "type": "buttons",
+        "1655896435b823c5ce-2": {
+          "type": "button",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label": "Button label",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "16557191315601e83f-0",
-        "16557191315601e83f-1",
-        "16557191315601e83f-2"
+        "1655896435b823c5ce-0",
+        "1655896435b823c5ce-1",
+        "1655896435b823c5ce-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/portrait-of-family-with-small-children-standing-on-PJAWUV6_1.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "165590223821b668b5": {
+      "type": "ttt-text-with-carts2",
+      "blocks": {
+        "1655902238ae5c391f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "1655902238ae5c391f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1655902238ae5c391f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1655902238ae5c391f-0",
+        "1655902238ae5c391f-1",
+        "1655902238ae5c391f-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -352,10 +314,8 @@
     "image_banner",
     "16557201546ee69969",
     "rich_text",
-    "multicolumn",
-    "featured_collection",
-    "collage",
-    "video",
-    "1655719131b8532893"
+    "1655885871cb88066e",
+    "1655896435066b2835",
+    "165590223821b668b5"
   ]
 }

@@ -1,0 +1,63 @@
+.TTT-cart-with-image-container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    gap: 71px;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.TTT-cart-with-image-single {
+    flex: 1 1 280px;
+    max-width: 280px;
+    height: 238px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.11);
+    border-radius: 6px;
+    padding: 11px;
+}
+
+.TTT-cart-with-image-single h3 {
+    font-size: 24px;
+    font-weight: 700;
+} 
+
+.TTT-cart-with-image-single p {
+    font-size: 18px;
+    margin: 0;
+} 
+
+.TTT-cart-with-image-single--img {
+    padding-top: 10px;
+    height: 58px;
+}
+
+.TTT-cart-with-image-single--textbox {
+    padding: 0 10px;
+}
+
+.TTT-cart-with-image--txt-bottom h2 {
+    font-size: 30px;
+    font-weight: 700;
+    display: block;
+    width: 85%;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 47px;
+}
+
+.TTT-cart-with-image--txt-btn button {
+    margin-bottom: 10px;
+}
+
+.header-custom-button {
+    padding: 18px 40px;
+    background: #7F992C;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 20px;
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+  }

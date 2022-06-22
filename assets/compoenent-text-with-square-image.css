@@ -1,0 +1,97 @@
+#shopify-section-template--15194866778169__1655896435066b2835 {
+    background-color: #FAFAF9;
+}
+
+.text-with-square-image {
+    /* background-color: red; */
+}
+
+.text-with-square-image--container {
+    padding-top: 110px;
+    padding-bottom: 60px;
+}
+
+.text-with-square-image--container h3 {
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+
+
+.text-with-square-image--container h3 span {
+    color: #2C5899;
+}
+
+.text-with-square-image--content p {
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+}
+
+.text-with-square-image--content p span {
+    font-weight: 700;
+}
+
+.text-with-square-image--img {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.text-with-square-image--img img {
+    margin-bottom: 60px;
+}
+
+
+/* Cart2 */
+.carts-container {
+    display: flex;
+}
+
+.carts-container--single-cart {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.11);
+    padding: 18px;
+   
+    
+}
+
+.carts-container--cart {
+    width: 244px;
+    height: 341px;
+    border: 2px solid #2C5899;
+    border-radius: 6px;
+}
+
+.carts-container--cart-img {
+    display: block;
+    text-align: center;
+    padding-top: 26px;
+    padding-bottom: 23px;
+}
+
+.carts-container--cart-heading {
+    display: block;
+    background-color: #2C5899;
+
+}
+
+.carts-container--cart-heading h4 {
+    font-size: 22px;
+    color: #fff;
+    text-align: center;
+    padding: 8px 0;
+    margin: 0;
+}
+
+.carts-container--cart-content p {
+    display: flex;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    padding-top: 30px;
+    width: 90%;
+    margin: 0 auto;
+}

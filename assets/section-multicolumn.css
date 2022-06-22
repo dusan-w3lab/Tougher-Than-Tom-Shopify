@@ -91,7 +91,8 @@
 
 .multicolumn-list__item.center .media--adapt,
 .multicolumn-list__item .media--adapt .multicolumn-card__image {
-  width: auto;
+  width: 56px;
+  height: auto;
 }
 
 .multicolumn-list__item.center .media--adapt img {
@@ -226,4 +227,23 @@
   .multicolumn-list__item--empty {
     display: list-item;
   }
+}
+
+.content-container-1 {
+  width: 280px;
+  height: 238px;
+  background-color: red;
+}
+
+.content-container-media img {
+  width: 100px;
+  height: 100px;
+}
+
+.content-container-image {
+  display: flex;
+  justify-items: center;
+  justify-content: center;
+  max-width: 60px;
+  
 }
